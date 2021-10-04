@@ -1,0 +1,1 @@
+For this game I incorporated Jquery for DOM manipulation
